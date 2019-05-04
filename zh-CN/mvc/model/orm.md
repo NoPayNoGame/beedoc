@@ -194,7 +194,7 @@ ORM 在进行 RegisterDataBase 的同时，会获取数据库使用的时区，�
 迷你版 models.go
 
 ```go
-package main
+package models
 
 import "github.com/astaxie/beego/orm"
 
